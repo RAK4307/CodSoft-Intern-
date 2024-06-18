@@ -1,0 +1,51 @@
+.ak2{
+    background-image: url(https://t4.ftcdn.net/jpg/03/95/37/23/360_F_395372383_V3EUr1Pvs6Ms5lPCDxXFCKNOfw1s6j7R.jpg);
+    text-align: center;
+    padding: 10px;
+    transform: scale(1) ;
+    background-size: cover;
+    display: block;
+    
+}
+
+.img{
+    border-radius: 10px;
+    height:100%; 
+    width: 20%;  
+}
+.uo{
+    background-size: cover;
+    float: top;
+    height: 50%;
+}
+
+.main{
+    background-image: url(https://img.freepik.com/free-vector/white-technology-background_23-2148390329.jpg);
+    background-size: cover;
+    float: bottom;
+    height: 50%;
+    
+}
+
+#ak1{
+    font-size: 25px;
+    font-family: serif;
+    color: rgb(203, 14, 14);
+    padding-top: 20px;
+
+}
+
+#footer{
+    text-align: center;
+}
+
+p,li{
+    font-size: large;
+    font-style: italic;
+}
+html{
+    background-position: cover;
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-vector/white-technology-background_23-2148390329.jpg);
+ 
+}
